@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: yelpapi
+Version: 2.4.0
+Summary: yelpapi is a pure Python implementation of the Yelp Fusion API.
+Home-page: https://github.com/gfairchild/yelpapi
+Author: Geoffrey Fairchild
+Author-email: mail@gfairchild.com
+Maintainer: Geoffrey Fairchild
+Maintainer-email: mail@gfairchild.com
+License: BSD 3-Clause License
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: requests
+
+yelpapi is a pure Python implementation of the `Yelp Fusion API <https://www.yelp.com/developers/documentation/v3/get_started>`_. It is simple, fast, and robust to any changes Yelp may make to the API in the future.
+
+For more information on yelpapi, visit the `GitHub project page <https://github.com/gfairchild/yelpapi>`_.
+

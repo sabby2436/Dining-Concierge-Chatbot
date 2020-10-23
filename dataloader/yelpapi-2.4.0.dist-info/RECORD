@@ -1,0 +1,11 @@
+yelpapi-2.4.0.dist-info/AUTHORS.md,sha256=Rb6vhtRSZku5auDCL1KMNTtJX2nzfzIpIi2WsV96HpY,405
+yelpapi-2.4.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+yelpapi-2.4.0.dist-info/LICENSE.txt,sha256=jkVB-I4v2eLgnNCdRxbNNDATjfwkS7FyMmHlYVRhgQs,1508
+yelpapi-2.4.0.dist-info/METADATA,sha256=DczmL57i6JIDcDRT2DNHLvHQ6N-lG8-B17eq2_JZ95o,1281
+yelpapi-2.4.0.dist-info/RECORD,,
+yelpapi-2.4.0.dist-info/WHEEL,sha256=U88EhGIw8Sj2_phqajeu_EAi3RAo8-C6zV3REsWbWbs,92
+yelpapi-2.4.0.dist-info/top_level.txt,sha256=vl8JpZx1L12XG9VwBmqwFNvU_qk67i-BSEAbvqUtVXY,8
+yelpapi/__init__.py,sha256=GxLI9J5Iwz4qKTi_X7qsz-XJ7sX_yt_3ZnqBMdqFfEU,1614
+yelpapi/__pycache__/__init__.cpython-35.pyc,,
+yelpapi/__pycache__/yelpapi.cpython-35.pyc,,
+yelpapi/yelpapi.py,sha256=OMd6IZfRU8R96qd8ZPeL5n3rjokgZS_pl8n1X7Y5QH0,12912
